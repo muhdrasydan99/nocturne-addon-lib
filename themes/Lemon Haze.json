@@ -1,0 +1,12 @@
+{
+  "id": "lemon",
+  "name": "Lemon Haze",
+  "bg_base": "#0E0D08",
+  "bg_surface": "#18160E",
+  "bg_elevated": "#222014",
+  "border": "#33301F",
+  "accent": "#FDE047",
+  "accent_hover": "#FEF08A",
+  "accent_soft": "rgba(253, 224, 71, 0.16)",
+  "accent_border": "rgba(253, 224, 71, 0.45)"
+}

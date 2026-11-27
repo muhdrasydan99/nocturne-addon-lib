@@ -1,0 +1,12 @@
+{
+  "id": "ruby",
+  "name": "Ruby Noir",
+  "bg_base": "#0F0808",
+  "bg_surface": "#190E0F",
+  "bg_elevated": "#241415",
+  "border": "#361E20",
+  "accent": "#E5484D",
+  "accent_hover": "#F2777A",
+  "accent_soft": "rgba(229, 72, 77, 0.16)",
+  "accent_border": "rgba(229, 72, 77, 0.45)"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rosegold",
+  "name": "Rose Gold Reverie",
+  "bg_base": "#100C0C",
+  "bg_surface": "#1A1414",
+  "bg_elevated": "#241C1C",
+  "border": "#352929",
+  "accent": "#E8A598",
+  "accent_hover": "#F2C1B7",
+  "accent_soft": "rgba(232, 165, 152, 0.16)",
+  "accent_border": "rgba(232, 165, 152, 0.45)"
+}

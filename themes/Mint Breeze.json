@@ -1,0 +1,12 @@
+{
+  "id": "mint",
+  "name": "Mint Breeze",
+  "bg_base": "#08100D",
+  "bg_surface": "#0F1A16",
+  "bg_elevated": "#16251F",
+  "border": "#213730",
+  "accent": "#86EFC9",
+  "accent_hover": "#B4F5DC",
+  "accent_soft": "rgba(134, 239, 201, 0.16)",
+  "accent_border": "rgba(134, 239, 201, 0.45)"
+}

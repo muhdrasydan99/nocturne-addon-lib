@@ -1,0 +1,12 @@
+{
+  "id": "indigo",
+  "name": "Indigo Nightfall",
+  "bg_base": "#0A0A14",
+  "bg_surface": "#121221",
+  "bg_elevated": "#1A1A2F",
+  "border": "#282844",
+  "accent": "#6366F1",
+  "accent_hover": "#818CF8",
+  "accent_soft": "rgba(99, 102, 241, 0.16)",
+  "accent_border": "rgba(99, 102, 241, 0.45)"
+}

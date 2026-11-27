@@ -1,0 +1,12 @@
+{
+  "id": "holo",
+  "name": "Holographic Iris",
+  "bg_base": "#0B0A12",
+  "bg_surface": "#14121F",
+  "bg_elevated": "#1D1A2C",
+  "border": "#2C2842",
+  "accent": "#A5B4FC",
+  "accent_hover": "#C7D2FE",
+  "accent_soft": "rgba(165, 180, 252, 0.16)",
+  "accent_border": "rgba(165, 180, 252, 0.45)"
+}
