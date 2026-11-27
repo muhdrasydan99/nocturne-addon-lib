@@ -1,5 +1,5 @@
-    "emerald": {
-        "name": "Emerald Analog",
+{
+        "id": "Emerald Analog",
         "bg_base": "#090E0C",
         "bg_surface": "#101915",
         "bg_elevated": "#16241E",
