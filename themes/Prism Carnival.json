@@ -8,5 +8,4 @@
         "accent_hover": "#FFB84D",
         "accent_soft": "rgba(139, 92, 246, 0.20)",
         "accent_border": "rgba(34, 211, 238, 0.55)",
-        "accent_gradient": "linear-gradient(135deg, #FF5CA8 0%, #FFB84D 25%, #FDE047 45%, #4ADE80 65%, #22D3EE 82%, #A78BFA 100%)",
 }
