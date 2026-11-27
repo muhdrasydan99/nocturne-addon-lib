@@ -1,0 +1,12 @@
+{
+  "id": "sunset",
+  "name": "Sunset Cassette",
+  "bg_base": "#100B09",
+  "bg_surface": "#1A1310",
+  "bg_elevated": "#251B17",
+  "border": "#352721",
+  "accent": "#FF7A45",
+  "accent_hover": "#FF9B73",
+  "accent_soft": "rgba(255, 122, 69, 0.16)",
+  "accent_border": "rgba(255, 122, 69, 0.45)"
+}

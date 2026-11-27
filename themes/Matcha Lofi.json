@@ -1,0 +1,12 @@
+{
+  "id": "matcha",
+  "name": "Matcha Lofi",
+  "bg_base": "#0C0E0A",
+  "bg_surface": "#151811",
+  "bg_elevated": "#1E2218",
+  "border": "#2B3122",
+  "accent": "#A3C76D",
+  "accent_hover": "#BEDB8F",
+  "accent_soft": "rgba(163, 199, 109, 0.16)",
+  "accent_border": "rgba(163, 199, 109, 0.45)"
+}

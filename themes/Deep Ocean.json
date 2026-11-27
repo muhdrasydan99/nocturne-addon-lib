@@ -1,0 +1,12 @@
+{
+  "id": "ocean",
+  "name": "Deep Ocean",
+  "bg_base": "#080B14",
+  "bg_surface": "#0F1422",
+  "bg_elevated": "#161D30",
+  "border": "#222C45",
+  "accent": "#3B82F6",
+  "accent_hover": "#60A5FA",
+  "accent_soft": "rgba(59, 130, 246, 0.16)",
+  "accent_border": "rgba(59, 130, 246, 0.45)"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lime",
+  "name": "Electric Lime",
+  "bg_base": "#0A0C08",
+  "bg_surface": "#12150F",
+  "bg_elevated": "#1A1E15",
+  "border": "#272D1F",
+  "accent": "#A3E635",
+  "accent_hover": "#BEF264",
+  "accent_soft": "rgba(163, 230, 53, 0.16)",
+  "accent_border": "rgba(163, 230, 53, 0.45)"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "gold",
+  "name": "Champagne Gold",
+  "bg_base": "#0D0C0A",
+  "bg_surface": "#171512",
+  "bg_elevated": "#201D19",
+  "border": "#2F2B24",
+  "accent": "#D4AF6A",
+  "accent_hover": "#E6C88C",
+  "accent_soft": "rgba(212, 175, 106, 0.16)",
+  "accent_border": "rgba(212, 175, 106, 0.45)"
+}

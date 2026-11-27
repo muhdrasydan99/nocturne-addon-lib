@@ -1,0 +1,12 @@
+{
+  "id": "neon",
+  "name": "Neon Synthwave",
+  "bg_base": "#0D0813",
+  "bg_surface": "#160F20",
+  "bg_elevated": "#20162E",
+  "border": "#302044",
+  "accent": "#E040FB",
+  "accent_hover": "#EA80FC",
+  "accent_soft": "rgba(224, 64, 251, 0.16)",
+  "accent_border": "rgba(224, 64, 251, 0.45)"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sakura",
+  "name": "Sakura Dusk",
+  "bg_base": "#0F0A0E",
+  "bg_surface": "#191117",
+  "bg_elevated": "#231821",
+  "border": "#32222F",
+  "accent": "#F472B6",
+  "accent_hover": "#F9A8D4",
+  "accent_soft": "rgba(244, 114, 182, 0.16)",
+  "accent_border": "rgba(244, 114, 182, 0.45)"
+}

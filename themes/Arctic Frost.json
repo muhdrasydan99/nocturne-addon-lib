@@ -1,0 +1,12 @@
+{
+  "id": "arctic",
+  "name": "Arctic Frost",
+  "bg_base": "#0A0D11",
+  "bg_surface": "#12171E",
+  "bg_elevated": "#1A212A",
+  "border": "#27313D",
+  "accent": "#93C5FD",
+  "accent_hover": "#BFDBFE",
+  "accent_soft": "rgba(147, 197, 253, 0.16)",
+  "accent_border": "rgba(147, 197, 253, 0.45)"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mocha",
+  "name": "Mocha Velvet",
+  "bg_base": "#0F0C0A",
+  "bg_surface": "#191411",
+  "bg_elevated": "#231C18",
+  "border": "#332A23",
+  "accent": "#C8956D",
+  "accent_hover": "#DDB08C",
+  "accent_soft": "rgba(200, 149, 109, 0.16)",
+  "accent_border": "rgba(200, 149, 109, 0.45)"
+}

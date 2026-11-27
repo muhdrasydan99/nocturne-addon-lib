@@ -1,0 +1,12 @@
+{
+  "id": "mono",
+  "name": "Monochrome Noir",
+  "bg_base": "#0A0A0A",
+  "bg_surface": "#131313",
+  "bg_elevated": "#1C1C1C",
+  "border": "#2A2A2A",
+  "accent": "#D4D4D8",
+  "accent_hover": "#F4F4F5",
+  "accent_soft": "rgba(212, 212, 216, 0.16)",
+  "accent_border": "rgba(212, 212, 216, 0.45)"
+}

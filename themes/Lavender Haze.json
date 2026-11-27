@@ -1,0 +1,12 @@
+{
+  "id": "lavender",
+  "name": "Lavender Haze",
+  "bg_base": "#0E0C12",
+  "bg_surface": "#17141E",
+  "bg_elevated": "#201C2A",
+  "border": "#2E283C",
+  "accent": "#C4A7E7",
+  "accent_hover": "#D8C3F3",
+  "accent_soft": "rgba(196, 167, 231, 0.16)",
+  "accent_border": "rgba(196, 167, 231, 0.45)"
+}

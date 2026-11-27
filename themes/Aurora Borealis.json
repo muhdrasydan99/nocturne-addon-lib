@@ -1,0 +1,12 @@
+{
+  "id": "aurora",
+  "name": "Aurora Borealis",
+  "bg_base": "#070D0F",
+  "bg_surface": "#0E171A",
+  "bg_elevated": "#152226",
+  "border": "#203338",
+  "accent": "#2DD4BF",
+  "accent_hover": "#5EEAD4",
+  "accent_soft": "rgba(45, 212, 191, 0.16)",
+  "accent_border": "rgba(45, 212, 191, 0.45)"
+}
