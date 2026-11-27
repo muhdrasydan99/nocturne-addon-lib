@@ -1,0 +1,12 @@
+{
+  "id": "emerald_night",
+  "name": "Emerald Night",
+  "bg_base": "#070D0B",
+  "bg_surface": "#0E1714",
+  "bg_elevated": "#16241F",
+  "border": "#21362E",
+  "accent": "#10B981",
+  "accent_hover": "#34D399",
+  "accent_soft": "#122B22",
+  "accent_border": "#1F5744"
+}
